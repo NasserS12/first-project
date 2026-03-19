@@ -1,0 +1,4 @@
+ This app helps you explore and enjoy a collection of inspiring content.
+Created with care to provide Quotes, Articles, Poems.
+
+Please choose a topic to explore :
