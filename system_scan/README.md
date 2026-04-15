@@ -11,8 +11,10 @@ A lightweight Python utility to display real-time system health metrics on Ubunt
 
 ## 🛠️ Requirements
 * Python 3.x
-* `psutil` library
+* `psutil`(External Library)
+* `shutil` (Built-in)
+* `datetime` (Built-in)
 
-To install requirements:
+To install the required external library, run:
 ```bash
-pip install psutil
+pip3 install psutil
