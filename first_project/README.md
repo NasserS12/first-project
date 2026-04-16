@@ -17,7 +17,7 @@ All content is loaded from external text files to keep the code clean and organi
 - Multiple windows using Toplevel  
 - Beginner-friendly project structure  
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python 3
 - Tkinter (GUI)
